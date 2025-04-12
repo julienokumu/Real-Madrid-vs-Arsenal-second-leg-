@@ -141,7 +141,7 @@ prob_madrid_4plus = 1 - poisson.cdf(3, madrid_lambda)
 prob_arsenal_0 = poisson.pmf(0, arsenal_lambda)
 prob_4_0_or_better = prob_madrid_4plus * prob_arsenal_0
 
-print(f"Probability Real Madrid win 4-0+ to qualify: {prob_4_0_or_better * 100:.2f}%")
+print(f"Probability Real Madrid win 4-0+ to qualify to next round: {prob_4_0_or_better * 100:.2f}%")
 
 
 
