@@ -51,3 +51,5 @@ Madrid expected goals: 1.80
 Arsenal expected goals: 0.91
 
 Probability Real Madrid win 4-0+ to qualify to next round: 4.38%
+
+Correct Prediction ✅ Real Madrid vs Arsenal 1:2, aggregate (1:5)
